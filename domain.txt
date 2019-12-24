@@ -1,5 +1,5 @@
-pool.minergate.com
-pool.minexmr.com
+minergate.com
+minexmr.com
 opmoner.com
 crypto-pool.fr
 backup-pool.com
@@ -17,3 +17,7 @@ ppxxmr.com
 alimabi.cn
 aeon-pool.com
 pool-pay.com
+miner.rocks
+bfcpool.com
+icanmining.ru
+gcpool.eu
