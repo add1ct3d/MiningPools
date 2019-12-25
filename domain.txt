@@ -21,3 +21,7 @@ miner.rocks
 bfcpool.com
 icanmining.ru
 gcpool.eu
+cryptonote.club
+bithash.tk
+blockmasters.co
+showcoins.org
