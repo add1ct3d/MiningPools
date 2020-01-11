@@ -290,3 +290,4 @@ pool.croat.community
 siamining.com
 2miners.com
 bs444.co
+pool.elicoin.net
