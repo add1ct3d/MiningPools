@@ -290,3 +290,4 @@ jshosting.racing
 jshosting.bid
 pool.croat.community
 siamining.com
+2miners.com
